@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common colors -->
+    <color name="digital_background">#32B8F8</color>
+    <color name="digital_text_time">#FFFFFF</color>
+
+    <!-- Date colors -->
+    <color name="digital_text_date">#B0EAFD</color>
+    <color name="digital_text_date_ambient">#B0EAFD</color>
+
+    <!-- Temperature colors -->
+    <color name="digital_text_temp_high">#FFFFFF</color>
+    <color name="digital_text_temp_low">#B0EAFD</color>
+</resources>

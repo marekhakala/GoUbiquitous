@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Square Watch -->
+    <dimen name="digital_time_text_size">25dp</dimen>
+    <dimen name="digital_time_text_y_offset">90dp</dimen>
+    <dimen name="digital_date_text_size">13dp</dimen>
+    <dimen name="digital_date_text_y_offset">110dp</dimen>
+    <dimen name="digital_temp_text_size">20dp</dimen>
+    <dimen name="digital_divider_y_offset">125dp</dimen>
+    <dimen name="digital_weather_y_offset">150dp</dimen>
+
+    <!-- Round Watch -->
+    <dimen name="digital_time_text_size_round">20dp</dimen>
+    <dimen name="digital_date_text_size_round">17dp</dimen>
+    <dimen name="digital_temp_text_size_round">17dp</dimen>
+</resources>

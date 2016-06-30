@@ -1,0 +1,31 @@
+<resources>
+    <!-- Common -->
+    <string name="app_name">Sunshine Wearable</string>
+
+    <!-- Clock AM / PM -->
+    <string name="am_text">AM</string>
+    <string name="pm_text">PM</string>
+
+    <!-- 12 Months of the Year -->
+    <string name="january">JAN</string>
+    <string name="february">FEB</string>
+    <string name="march">MAR</string>
+    <string name="april">APR</string>
+    <string name="may">MAY</string>
+    <string name="june">JUN</string>
+    <string name="july">JUL</string>
+    <string name="august">AUG</string>
+    <string name="september">SEP</string>
+    <string name="october">OCT</string>
+    <string name="november">NOV</string>
+    <string name="december">DEC</string>
+
+    <!-- 7 Days of the Week -->
+    <string name="sunday">SUN</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THU</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+</resources>
